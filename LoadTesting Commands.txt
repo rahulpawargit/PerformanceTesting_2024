@@ -1,0 +1,4 @@
+C:\Jemter\apache-jmeter-5.6.3 (1)\apache-jmeter-5.6.3\Performance Test\PerformaceSession.jmx
+
+
+ jmeter -n -t C:\Jemter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\PerformanceTest\PerformaceSession.jmx -l C:\Jemter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\PerformanceTest\Dummy\Test001.jtl -e -o C:\Jemter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\PerformanceTest\DummyReport\
